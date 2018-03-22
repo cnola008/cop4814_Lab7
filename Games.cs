@@ -14,7 +14,7 @@ namespace GamesScoresLibrary
         public string Team2 { get; set; }
         public int Team2score { get; set; }
 
-        public Games() { }
+        public Games() { }//Step10 Master code 
 
         public Games(string Team1, int Team1score, string Team2, int Team2score)
         {
