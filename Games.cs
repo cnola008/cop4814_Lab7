@@ -1,9 +1,10 @@
-﻿using System;
+//edits made during Step7
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//second comment during Step7
 namespace GamesScoresLibrary
 {
     public class Games
