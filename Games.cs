@@ -29,7 +29,7 @@ namespace GamesScoresLibrary
             string score1 = "(" + Team1score + ")";
             string hyphen = " - ";
             string score2 = "(" + Team2score + ")";
-
+            //Step 10 modify code
             return string.Format("{0} {1} {2} {3} {4}", Team1, score1, hyphen, Team2, score2);
         }
 
